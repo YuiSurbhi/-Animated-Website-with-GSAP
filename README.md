@@ -61,7 +61,7 @@ This project can be deployed using:
 ## 🙋‍♀️ Author
 **Surbhi Verma**</br>
 *React Developer & Web Enthusiast*</br>
-[GitHub](https://github.com/YuiSurbhi) | [LinkedIn](https://www.linkedin.com/in/surbhi-verma-a63881295/)
+[GitHub](https://github.com/YuiSurbhi) | [LinkedIn](https://www.linkedin.com/in/surbhiverma03/)
 
 ## Credits
 This website was made by following a YouTube tutorial from [Sheryians Coding School](https://www.youtube.com/@sheryians).</br>
