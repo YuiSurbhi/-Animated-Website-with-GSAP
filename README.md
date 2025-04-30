@@ -37,7 +37,7 @@ To run the project locally:
 ## 📁 Folder Structure
 
 ```graphql
-GSAP-Website/
+Animated-Website-with-GSAP/
 ├── font/
 |   └── 3856NeueMachina.woff2
 ├── index.html
